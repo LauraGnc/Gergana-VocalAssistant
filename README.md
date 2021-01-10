@@ -12,4 +12,4 @@ It's name is Gergana and you can give it vocal orders to ask it the following ac
 - Ask about battery %
 - Restart your PC
 - Send email
-tt
+- Play songs (playlist)
