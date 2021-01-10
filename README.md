@@ -1,6 +1,6 @@
 # Vocal Assistant - Gergana
 
-The vocal assistant is a project created in Dec 2020 by myself.
+The vocal assistant is a project created in Dec 2020 by myself. It is made with Python, Eel, HTML, CSS and JavaScript.
 It's name is Gergana and you can give it vocal orders to ask it the following action:
 
 - Greetings
