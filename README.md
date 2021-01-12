@@ -1,3 +1,5 @@
+STATUS: [ONGOING]
+
 # Vocal Assistant - Gergana
 
 The vocal assistant is a project created in Dec 2020 by myself. It is made with Python, Eel, HTML, CSS and JavaScript.
