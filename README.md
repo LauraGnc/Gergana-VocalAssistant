@@ -1,5 +1,5 @@
 ```diff
-- STATUSOF THE PROJECT: ONGOING (Jan 2021)
+- STATUS OF THE PROJECT: ONGOING (Jan 2021)
 ```
 
 # Vocal Assistant - Gergana
