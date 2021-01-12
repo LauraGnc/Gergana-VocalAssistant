@@ -1,5 +1,13 @@
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `STATUS: [ONGOING]`
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 # Vocal Assistant - Gergana
 
 The vocal assistant is a project created in Dec 2020 by myself. It is made with Python, Eel, HTML, CSS and JavaScript.
