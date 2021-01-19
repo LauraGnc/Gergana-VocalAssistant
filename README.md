@@ -21,4 +21,4 @@ It's name is Gergana and you can give it vocal orders to ask it the following ac
 The script for the Vocal Assistant is done.
 I am now in the process of building a desktop app to put the Vocal Assistant in it.
 
-Thinking about Qt Creator for now.
+&#x1F539; Thinking about Qt Creator for now.
