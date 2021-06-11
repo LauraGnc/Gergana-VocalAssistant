@@ -1,5 +1,5 @@
 ```diff
-- STATUS OF THE PROJECT: ONGOING (Jan 2021)
++ STATUS OF THE PROJECT: FINISHED (Jan 2021)
 ```
 
 # Vocal Assistant - Gergana
@@ -18,7 +18,5 @@ It's name is Gergana and you can give it vocal orders to ask it the following ac
 - Send email
 - Play songs (playlist)
 
-The script for the Vocal Assistant is done.
-I am now in the process of building a desktop app to put the Vocal Assistant in it.
 
-&#x1F539; Thinking about Qt Creator for now.
+&#x1F539; The script for the Vocal Assistant is done.
